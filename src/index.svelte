@@ -35,7 +35,8 @@
 	-
 </button>
 Niiiiice No
-<span>{count}</span>
+whay
+<span>{count} ++ </span>
 <button on:click={inc}>
 	+
 </button>
