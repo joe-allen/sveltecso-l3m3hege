@@ -34,7 +34,7 @@
 <button on:click={dec}>
 	-
 </button>
-Did it push?
+Niiiiice No
 <span>{count}</span>
 <button on:click={inc}>
 	+
