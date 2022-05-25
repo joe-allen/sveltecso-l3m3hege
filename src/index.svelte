@@ -34,6 +34,7 @@
 <button on:click={dec}>
 	-
 </button>
+Niiiiice No
 <span>{count}</span>
 <button on:click={inc}>
 	+
