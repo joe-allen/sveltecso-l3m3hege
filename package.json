@@ -1,0 +1,7 @@
+{
+  "name": "@components-studio/null.sveltecso-l3m3hege",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve sYdUKqACkiy2dzlgOssc --open"
+  }
+}
